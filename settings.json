@@ -45,7 +45,9 @@
     {
         "defaults": 
         {
-            "acrylicOpacity": 0.69999999999999996,
+            "backgroundImage": "https://github.com/KHDKR/windows-terminal/blob/main/backgroud.png?raw=trueg",
+            "backgroundImageOpacity": 0.5,
+            "acrylicOpacity": 0.68,
             "colorScheme": "Ayu Mirage Gnome",
             "cursorShape": "vintage",
             "font": 
