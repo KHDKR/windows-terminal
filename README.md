@@ -1,2 +1,2 @@
-# windows-terminal-config
-personal windows terminal config
+# windows-terminal
+个人的所有配置都会放在这个项目下
