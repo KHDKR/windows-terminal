@@ -26,11 +26,12 @@
                 "splitMode": "duplicate"
             },
             "keys": "ctrl+shift+d"
-        },
-        {
+        }
+        /*{
             "command": "togglePaneZoom",
             "keys": "ctrl+shift+z"
         }
+        */
     ],
     "alwaysShowTabs": true,
     "copyFormatting": "none",
